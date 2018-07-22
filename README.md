@@ -1,4 +1,4 @@
-# killer_sudoku
+# Killer Sudoku
 
 Script try to find a solution to the killer sudoku.
 
@@ -8,4 +8,6 @@ You have to run it with python >= 3.5.
 
 ## Usage:
 
-   >> python hw999.py file.csv
+```
+python hw999.py file.csv
+```
