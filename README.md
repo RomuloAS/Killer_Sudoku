@@ -1,6 +1,6 @@
 # Killer Sudoku
 
-Script try to find a solution to the killer sudoku.
+Killer sudoku script tries to find a solution to the killer sudoku.
 
 The main script is **hw999.py**
 
